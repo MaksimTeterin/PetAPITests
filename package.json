@@ -1,0 +1,17 @@
+{
+  "name": "petapitests",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "tests.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mocha": "^11.1.0",
+    "supertest": "^7.0.0"
+  }
+}
